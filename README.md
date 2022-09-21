@@ -1,1 +1,1 @@
-Tanmay Singh - React 
+Hardik singh twitter clone
